@@ -4,7 +4,7 @@ import Header from "./layout/header/Header";
 import Footer from "./layout/footer/Footer";
 import HeroSection from "./components/heroSection/HeroSection";
 import WhoCanUse from "./components/section/whocanuse/WhoCanUse";
-import Price from "./components/section/price/Price";
+// import Price from "./components/section/price/Price";
 import Contactus from "./components/section/contactus/Contactus";
 import Login from "./auth/login/page";
 import Signup from "./auth/signup/page";
